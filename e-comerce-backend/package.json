@@ -7,7 +7,7 @@
     "start": "react-scripts --openssl-legacy-provider start",
     "dev": "nodemon backend/server.js",
     "data:import": "node backend/seederScript",
-    "build": "Ecommerce"
+    "build": "Ec"
   },
   "keywords": [],
   "author": "Lovkush",
